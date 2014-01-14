@@ -1,0 +1,38 @@
+.table thead tr td {
+   text-align: center;  
+   font-weight: bold;
+
+}
+
+.table tbody tr td {
+   text-align: center;
+
+}
+
+#modalUser tbody tr td 
+{
+	vertical-align: middle;
+}
+
+#modalUser tbody tr td input
+{
+	vertical-align: middle;
+	height:35px;
+	margin-top: 10px;
+}
+.well input
+{
+	margin-top: 10px;
+	height:35px;
+}
+
+
+.div-header-right
+{
+	float:right;
+}
+
+.div-header-left
+{
+	float:left;
+}

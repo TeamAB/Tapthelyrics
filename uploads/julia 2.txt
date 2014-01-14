@@ -1,0 +1,21 @@
+TAP THE LYRICS ANDROID GAME
+
+Additional (GAME CATEGORY)
+
+1.) User Experience of the game - (1- Very Good/2- Good/3- Fairly Good/4- Need to improve)
+
+
+2.) User Interface of the game includes, clarity of text, character width distribution - (1- Very Good/2- Good/3- Fairly Good/4- Need to improve)
+
+
+3.) Overall performance includes music, animation, game timing, buffering and etc  - (1- Very Good/2- Good/3- Fairly Good/4- Need to improve)
+
+
+4.) Clear presentation/direction of the UI (for example from one activity to another activity, does it leads to correct transition like from initial screen to another screen to game screen)
+- (1- Very Good/2- Good/3- Fairly Good/4- Need to improve)
+
+
+ 5.) Effectiveness of the game delivered to the user   - (1- Very Good/2- Good/3- Fairly Good/4- Need to improve)
+
+
+ 6.) Color Scheming, clean and solid (usage of colors like dark and light contrast and variations)  - (1- Very Good/2- Good/3- Fairly Good/4- Need to improve)
