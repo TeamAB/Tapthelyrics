@@ -80,6 +80,15 @@
                 android:layout_marginTop="@dimen/margin_10dp"
                 android:background="@drawable/selector_button_exit"
                 android:text="@string/high_score" />
+            
+            <Button
+                android:id="@+id/btnInstruction"
+                style="@style/ListStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_10dp"
+                android:background="@drawable/selector_button_exit"
+                android:text="@string/instruction" />
 
             <Button
                 android:id="@+id/btnExit"

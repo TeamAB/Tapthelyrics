@@ -110,6 +110,7 @@ public final class R {
         public static final int hard=0x7f070009;
         public static final int hello_world=0x7f070002;
         public static final int high_score=0x7f070007;
+        public static final int instruction=0x7f07000a;
         public static final int start=0x7f070003;
     }
     public static final class style {
