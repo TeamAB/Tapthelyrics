@@ -44,6 +44,9 @@ public class MainActivity extends Activity implements OnClickListener
 		Button btnHighScore = (Button) findViewById(R.id.btnHighScore);
 		btnHighScore.setOnClickListener(this);
 		
+		Button btnInstruction = (Button) findViewById(R.id.btnInstruction);
+		btnInstruction.setOnClickListener(this);
+		
 		Button btnExit = (Button) findViewById(R.id.btnExit);
 		btnExit.setOnClickListener(this);
 		

@@ -12,5 +12,6 @@
     
      <string name="easy">Easy</string>
       <string name="hard">Hard</string>
+      <string name="instruction">Instruction</string>
 
 </resources>

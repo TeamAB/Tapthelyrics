@@ -59,29 +59,30 @@ public final class R {
         public static final int sound48=0x7f02001c;
     }
     public static final class id {
-        public static final int action_settings=0x7f0a0016;
-        public static final int btnEasy=0x7f0a0008;
-        public static final int btnExit=0x7f0a0006;
+        public static final int action_settings=0x7f0a0017;
+        public static final int btnEasy=0x7f0a0009;
+        public static final int btnExit=0x7f0a0007;
         public static final int btnGetSongs=0x7f0a0004;
-        public static final int btnHard=0x7f0a0009;
+        public static final int btnHard=0x7f0a000a;
         public static final int btnHighScore=0x7f0a0005;
+        public static final int btnInstruction=0x7f0a0006;
         public static final int btnStart=0x7f0a0003;
-        public static final int button1=0x7f0a0011;
-        public static final int button2=0x7f0a0012;
-        public static final int button3=0x7f0a0013;
+        public static final int button1=0x7f0a0012;
+        public static final int button2=0x7f0a0013;
+        public static final int button3=0x7f0a0014;
         public static final int imageView1=0x7f0a0002;
         public static final int imageView2=0x7f0a0000;
-        public static final int imgStatus=0x7f0a0014;
-        public static final int listView=0x7f0a0015;
-        public static final int scrollView1=0x7f0a000e;
-        public static final int textLyrics=0x7f0a000f;
-        public static final int textOverlay=0x7f0a0010;
+        public static final int imgStatus=0x7f0a0015;
+        public static final int listView=0x7f0a0016;
+        public static final int scrollView1=0x7f0a000f;
+        public static final int textLyrics=0x7f0a0010;
+        public static final int textOverlay=0x7f0a0011;
         public static final int textView1=0x7f0a0001;
-        public static final int tvArtist=0x7f0a000b;
-        public static final int tvName=0x7f0a000c;
-        public static final int tvScore=0x7f0a000d;
-        public static final int tvTitle=0x7f0a000a;
-        public static final int txtName=0x7f0a0007;
+        public static final int tvArtist=0x7f0a000c;
+        public static final int tvName=0x7f0a000d;
+        public static final int tvScore=0x7f0a000e;
+        public static final int tvTitle=0x7f0a000b;
+        public static final int txtName=0x7f0a0008;
     }
     public static final class integer {
         public static final int ems_3=0x7f060000;
@@ -110,6 +111,7 @@ public final class R {
         public static final int hard=0x7f070009;
         public static final int hello_world=0x7f070002;
         public static final int high_score=0x7f070007;
+        public static final int instruction=0x7f07000a;
         public static final int start=0x7f070003;
     }
     public static final class style {
