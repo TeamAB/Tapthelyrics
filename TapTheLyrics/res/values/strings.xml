@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tap The Lyrics</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start">Start</string>
+    <string name="getSongs">Get Songs!</string>
+    <string name="exit">Exit</string>
+    <string name="enter_name">Enter Name:</string>
+    <string name="high_score">High Score</string>
+    
+     <string name="easy">Easy</string>
+      <string name="hard">Hard</string>
+
+</resources>
