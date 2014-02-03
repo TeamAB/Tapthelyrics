@@ -129,6 +129,13 @@ public class MainActivity extends Activity implements OnClickListener
 				startActivity(i);
 				break;
 				
+				
+			case R.id.btnInstruction:
+				
+				i = new Intent(this, Instruction.class);
+				startActivity(i);
+				break;
+				
 			case R.id.btnExit:
 				this.finish();
 				break;
