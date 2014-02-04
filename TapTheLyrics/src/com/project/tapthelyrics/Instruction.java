@@ -18,7 +18,8 @@ public class Instruction extends Activity implements OnItemClickListener
 		this.setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 		setContentView(R.layout.instruction);
 	}
-    
+	
+	
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) 
 	{
